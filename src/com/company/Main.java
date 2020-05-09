@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int b = 7;
 
-        System.out.println( Number(5000) );
+        System.out.println( Number(b) );
     }
 
     public static boolean Number(int k) {
